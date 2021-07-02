@@ -8,6 +8,7 @@
         "latitude": "40.463667",
         "longitude": "-3.74922",
         "size": "medium",
+        "type":"carousel",
         "icon": "ICONS/IOTHub.png",
         "color": "blue",
         "Actions": [
@@ -38,6 +39,7 @@
         "latitude": "35.86166",
         "longitude": "104.195397",
         "size": "medium",
+        "type":"page",
         "icon": "ICONS/IOTHub.png",
         "color": "blue",
         "Actions": [
