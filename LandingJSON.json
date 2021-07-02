@@ -59,8 +59,8 @@
       },
       {
         "Point": "IOT Hub Central US Storage",
-        "latitude": "37.0902",
-        "longitude": "95.7129",
+        "latitude": "38.8921",
+        "longitude": "-77.0241",
         "size": "medium",
         "icon": "ICONS/IOTHub.png",
         "color": "blue",
@@ -5248,7 +5248,7 @@
         ]
       },
       {
-        "Point": "Sao Tome and Príncipe",
+        "Point": "Sao Tome and PrÃ­ncipe",
         "latitude": " 0.1864",
         "longitude": "6.6131",
         "size": "small",
