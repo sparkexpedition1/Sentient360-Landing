@@ -8120,6 +8120,7 @@
         "longitude": "-95.7129",
         "size": "small",
         "icon": "ICONS/DigitalTwin.png",
+        "type":"page",
         "color": "blue",
         "Actions": [
           { "Open DigitalTwin Explorer": "http://www.google.com/" },
@@ -8127,14 +8128,6 @@
           { "Open Dashboard": "http://www.google.co.in" }
         ],
         "Popup": [
-          {
-            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
-            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
-          },
-          {
-            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
-            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
-          },
           {
             "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
             "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
