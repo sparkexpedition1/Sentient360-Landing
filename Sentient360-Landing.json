@@ -99,7 +99,7 @@
   },
   {
     "Feature": "Global Risk Scanners",
-    "DescriptionImage": "Images/Slide1.png",
+    "DescriptionImage": "Images/Slide2.png",
     "Points": [
       {
         "Point": "Afghanistan Risk Scanner",
@@ -7211,7 +7211,7 @@
 
   {
     "Feature": "Cosmos DB",
-    "DescriptionImage": "Images/Slide1.png",
+    "DescriptionImage": "Images/Slide3.png",
     "Points": [
       {
         "Point": "Central India Cosmos DB",
@@ -7699,7 +7699,7 @@
 
   {
     "Feature": "Storage",
-    "DescriptionImage": "Images/Slide1.png",
+    "DescriptionImage": "Images/Slide4.png",
     "Points": [
       {
         "Point": "Central India Storage",
@@ -8183,8 +8183,44 @@
     ]
   },
   {
+    "Feature": "ML",
+    "DescriptionImage": "Images/Slide5.png",
+
+    "Points": [
+      {
+        "Point": "ML US Central",
+        "latitude": "37.0902",
+        "longitude": "-95.7129",
+        "size": "small",
+        "icon": "ICONS/DeepLearning.png",
+        "color": "blue",
+        "title": "title here",
+        "type": "carousel",
+        "Actions": [
+          { "Open DigitalTwin Explorer": "http://www.google.com/" },
+          { "Open DigitalTwin": "http://www.google.co.uk" },
+          { "Open Dashboard": "http://www.google.co.in" }
+        ],
+        "Popup": [
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          },
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          },
+          {
+            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "Feature": "Iot Hub Digital Twin",
-    "DescriptionImage": "Images/Slide1.png",
+    "DescriptionImage": "Images/Slide6.png",
 
     "Points": [
       {
@@ -8220,7 +8256,7 @@
   },
   {
     "Feature": "Digital Twins Logic App",
-    "DescriptionImage": "Images/Slide1.png",
+    "DescriptionImage": "Images/Slide7.png",
     "Points": [
       {
         "Point": "Central India Logic App",
