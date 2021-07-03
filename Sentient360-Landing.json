@@ -8183,8 +8183,8 @@
     ]
   },
   {
-    "Feature": "ML",
-    "DescriptionImage": "Images/Slide5.PNG",
+    "Feature": "ML Risk Scoring",
+    "DescriptionImage": "Images/AzureML.PNG",
 
     "Points": [
       {
