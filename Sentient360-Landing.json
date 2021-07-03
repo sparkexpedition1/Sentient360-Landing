@@ -8184,7 +8184,7 @@
   },
   {
     "Feature": "ML Risk Scoring",
-    "DescriptionImage": "Images/AzureML.PNG",
+    "DescriptionImage": "Images/Slide5.PNG",
 
     "Points": [
       {
@@ -8192,7 +8192,7 @@
         "latitude": "37.0902",
         "longitude": "-95.7129",
         "size": "small",
-        "icon": "ICONS/DeepLearning.png",
+        "icon": "ICONS/DeepLearning.jpg",
         "color": "blue",
         "title": "title here",
         "type": "carousel",
@@ -8219,7 +8219,7 @@
     ]
   },
   {
-    "Feature": "Iot Hub Digital Twin",
+    "Feature": "Digital Twin",
     "DescriptionImage": "Images/Slide6.PNG",
 
     "Points": [
