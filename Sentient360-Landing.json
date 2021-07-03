@@ -8115,7 +8115,7 @@
 
     "Points": [
       {
-        "Point": "IOT Hub US Central Country",
+        "Point": "Afghanistan",
         "latitude": "37.0902",
         "longitude": "-95.7129",
         "size": "small",
@@ -8129,7 +8129,7 @@
         ],
         "Popup": [
           {
-            "Data": "https://cdn3.eu.tz.nl/wp-content/uploads/2020/06/value-prop.png",
+            "Data": "https://s360usastorage.blob.core.windows.net/sentient360/CountryRiskIndices/Afghanistan.html",
             "Text": "Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,Digital Twins Description here,"
           }
         ]
